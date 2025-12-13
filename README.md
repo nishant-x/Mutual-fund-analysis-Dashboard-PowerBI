@@ -77,13 +77,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 | 🔄 **SIP vs Lumpsum** | Avg. SIP: ₹528.50/month, Lumpsum Min: ₹3.05K |
 | ⏳ **3-Year Returns** | Equity Funds: 37.84%, Hybrid: 14.25% |
 
----
 
-## 🖼️ Dashboard Preview
-
-![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
-
----
 
 ### 🧠 Final Conclusion – See the Power of Investment
 
