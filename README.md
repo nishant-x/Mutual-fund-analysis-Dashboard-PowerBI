@@ -77,13 +77,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 | 🔄 **SIP vs Lumpsum** | Avg. SIP: ₹528.50/month, Lumpsum Min: ₹3.05K |
 | ⏳ **3-Year Returns** | Equity Funds: 37.84%, Hybrid: 14.25% |
 
----
 
-## 🖼️ Dashboard Preview
-
-![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
-
----
 
 ### 🧠 Final Conclusion – See the Power of Investment
 
@@ -129,7 +123,5 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 Thank you for exploring my Mutual Fund Analysis project!  
 I’m always open to suggestions, improvements, or collaboration ideas.
 
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
-📧 Or drop an email: **niravtrivedi069@gmail.com**
 
 Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
